@@ -127,3 +127,10 @@ We are ready to compose all children components into our main parent component.
 ## You're finished!
 
 Your components skills aren't just 🔥, they're 🚀🔥.
+
+## BONUS
+
+Inside the Main component, display a list of all the planets (with at least a name and img). Each planet should be displayed inside a Planet component where the data is passed in as props. 
+Feel free to add an onClick so that when you click a Planet, it displays an alert that says `${THIS_PLANET} Clicked!` or something like that!
+
+
